@@ -9,6 +9,11 @@ html {
 header {
   background-color: #615192;
   padding: 1rem;
+  text-align: center;
+}
+img {
+  max-width: 50%;
+  max-height: 20%;
 }
 
 .Hero {
@@ -56,10 +61,13 @@ nav {
   margin-top: -1rem;
 }
 .specials {
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
   color: #7c6ea7;
   background-color: #261758;
   text-align: center;
   margin-top: -1rem;
+  justify-content: center;
 }
 
 footer {
