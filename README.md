@@ -7,3 +7,4 @@ Include locations
 Include upcoming events
 Include hero section
 Include at least 3 hyperlinks
+Update with some CSS

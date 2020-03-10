@@ -6,7 +6,62 @@ html {
   height: 100%;
 }
 
+header {
+  background-color: #615192;
+  padding: 1rem;
+}
+
+.Hero {
+  background-image: url('https://image.shutterstock.com/image-photo/swindon-wiltshire-uk-dec-2018-600w-1231375315.jpg');
+  background-size: cover;
+  padding: 2rem;
+  text-align: center;
+  font-size: 80px;
+}
+
 body {
   margin: 0;
   min-height: 100%;
+  background-color: #403075;
+}
+
+nav {
+  color: #13073a;
+  display: flex;
+  align-items: space-between;
+  padding: 0.5rem;
+  text-align: center;
+  margin-top: -1rem;
+  padding: 0.5rem;
+  background-color: #887caf;
+  justify-content: space-around;
+}
+
+.locations {
+  color: #7c6ea7;
+  background-color: #261758;
+  text-align: center;
+  margin-top: -1rem;
+}
+
+.menu {
+  justify-content: center;
+  text-align: center;
+}
+
+.events {
+  color: #6f4dd6;
+  background-color: #200f55;
+  text-align: center;
+  margin-top: -1rem;
+}
+.specials {
+  color: #7c6ea7;
+  background-color: #261758;
+  text-align: center;
+  margin-top: -1rem;
+}
+
+footer {
+  text-align: center;
 }
